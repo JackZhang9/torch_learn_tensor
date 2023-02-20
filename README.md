@@ -1,0 +1,2 @@
+# torch_learn_tensor
+torch_learn_tensor学习在torch中tensor的使用，包括tensor的几种创建方式，tensor的矩阵乘法，tensor的梯度求解
